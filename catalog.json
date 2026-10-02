@@ -4,8 +4,8 @@
  "app": {
   "version": "1.0.0",
   "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.0/TiktokGame.exe",
-  "sha256": "3f4767de5f19639706ee281bc61663d4f9bcf1eb35c5e61404edc7e654921e28",
-  "size": 29149459,
+  "sha256": "8c4f7bed622bb93ba9f990d3b032e81e7654fdcb46b14b573c42429f90aaa4db",
+  "size": 29153186,
   "notes": "First version"
  },
  "games": [
