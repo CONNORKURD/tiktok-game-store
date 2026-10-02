@@ -3,10 +3,10 @@
  "updated": "2026-10-02",
  "app": {
   "version": "1.0.0",
-  "url": "",
-  "sha256": "",
-  "size": 0,
-  "notes": ""
+  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.0/TiktokGame.exe",
+  "sha256": "3f4767de5f19639706ee281bc61663d4f9bcf1eb35c5e61404edc7e654921e28",
+  "size": 29149459,
+  "notes": "First version"
  },
  "games": [
   {
