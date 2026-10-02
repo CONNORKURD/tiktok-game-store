@@ -2,11 +2,11 @@
  "schema": 1,
  "updated": "2026-10-02",
  "app": {
-  "version": "1.0.0",
-  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.0/TiktokGame.exe",
-  "sha256": "8c4f7bed622bb93ba9f990d3b032e81e7654fdcb46b14b573c42429f90aaa4db",
-  "size": 29153186,
-  "notes": "First version"
+  "version": "1.0.1",
+  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.1/TiktokGame.exe",
+  "sha256": "76e5d573a6bbe854673a892d3fdfbfd1781e972eb094977ecc7ffcb8e5ce6069",
+  "size": 29153437,
+  "notes": "TikTok status: green when connected, red when not. Nicer yes/no windows. Days left rounded."
  },
  "games": [
   {
