@@ -12,7 +12,7 @@
   {
    "id": "lastwar",
    "name": "Last War",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "developer": "CONNOR KURD",
    "tagline": "BLUE vs RED in a huge 3D desert battle - your viewers' gifts send the army.",
    "description": "Two armies, BLUE and RED, fight in a 3D desert. Gifts send swordsmen, archers, catapults, giants, dinosaurs and the Eagle Artillery to their team. Viewers' names float over the units they sent, and the top 10 gifters of each team show at the end of every war.",
@@ -23,9 +23,9 @@
     "up to 250,000 soldiers"
    ],
    "download": {
-    "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/lastwar-1.0.1/lastwar-1.0.1.zip",
-    "size": 848388965,
-    "sha256": "c5fa125b4d898ba837f1ff86200ec425cd45fddb80312090a0682cd2e230cca2"
+    "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/lastwar-1.0.2/lastwar-1.0.2.zip",
+    "size": 848391830,
+    "sha256": "a61f30d412fc80c15f8f1a0555f623e9b12c1568a0483bcf0a260f0134f60c82"
    },
    "minApp": "1.0.0"
   }
