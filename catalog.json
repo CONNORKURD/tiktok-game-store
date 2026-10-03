@@ -2,11 +2,11 @@
  "schema": 1,
  "updated": "2026-10-03",
  "app": {
-  "version": "1.0.3",
-  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.3/TiktokGame.exe",
-  "sha256": "5e641c1317f293415e2f544edfa63eae6ba95b24479e3725b4ba24fcd9e8f192",
-  "size": 29333434,
-  "notes": "New gift pictures: big unit pictures standing on their numbers with the gift beside them (see-through PNG). Settings without the Gift pictures card."
+  "version": "1.0.4",
+  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.4/TiktokGame.exe",
+  "sha256": "60955b173e569969c90efab3ae37a827f43b91b038189879d1099fa033c645cf",
+  "size": 29336692,
+  "notes": "Move gift rows (drag the number or use the arrows). New Last War default gifts from the store. Note about gifts per country; gifts not in TikTok's list are marked."
  },
  "games": [
   {
@@ -27,7 +27,121 @@
     "size": 848401070,
     "sha256": "2331ab2e14ef0d8687e9d77d0a4cf7a0cc04344b7fda0f5dca78f88d875f8799"
    },
-   "minApp": "1.0.0"
+   "minApp": "1.0.0",
+   "defaults": [
+    {
+     "side": "blue",
+     "gift": 5655,
+     "name": "Rose",
+     "diamonds": 1,
+     "action": "swordsman",
+     "quantity": 10
+    },
+    {
+     "side": "blue",
+     "gift": 5924,
+     "name": "Hand Heart",
+     "diamonds": 100,
+     "action": "swordsman",
+     "quantity": 1000
+    },
+    {
+     "side": "blue",
+     "gift": 5487,
+     "name": "Finger Heart",
+     "diamonds": 5,
+     "action": "archer",
+     "quantity": 20
+    },
+    {
+     "side": "blue",
+     "gift": 5282,
+     "name": "Heart",
+     "diamonds": 10,
+     "action": "catapult",
+     "quantity": 2
+    },
+    {
+     "side": "blue",
+     "gift": 5658,
+     "name": "Perfume",
+     "diamonds": 20,
+     "action": "giant",
+     "quantity": 2
+    },
+    {
+     "side": "blue",
+     "gift": 5879,
+     "name": "Doughnut",
+     "diamonds": 30,
+     "action": "dinosaur",
+     "quantity": 1
+    },
+    {
+     "side": "blue",
+     "gift": 5585,
+     "name": "Confetti",
+     "diamonds": 100,
+     "action": "eagle",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 5269,
+     "name": "TikTok",
+     "diamonds": 1,
+     "action": "swordsman",
+     "quantity": 10
+    },
+    {
+     "side": "red",
+     "gift": 5660,
+     "name": "Hand Heart",
+     "diamonds": 100,
+     "action": "swordsman",
+     "quantity": 1000
+    },
+    {
+     "side": "red",
+     "gift": 19447,
+     "name": "Overreact",
+     "diamonds": 5,
+     "action": "archer",
+     "quantity": 20
+    },
+    {
+     "side": "red",
+     "gift": 8913,
+     "name": "Rosa",
+     "diamonds": 10,
+     "action": "catapult",
+     "quantity": 2
+    },
+    {
+     "side": "red",
+     "gift": 626064,
+     "name": "G.O.A.T. Busker",
+     "diamonds": 20,
+     "action": "giant",
+     "quantity": 2
+    },
+    {
+     "side": "red",
+     "gift": 12785,
+     "name": "Witchy Kitty",
+     "diamonds": 30,
+     "action": "dinosaur",
+     "quantity": 5
+    },
+    {
+     "side": "red",
+     "gift": 6427,
+     "name": "Hat and Mustache",
+     "diamonds": 99,
+     "action": "eagle",
+     "quantity": 1
+    }
+   ]
   }
  ]
 }
