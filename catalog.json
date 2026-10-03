@@ -2,11 +2,11 @@
  "schema": 1,
  "updated": "2026-10-03",
  "app": {
-  "version": "1.0.2",
-  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.2/TiktokGame.exe",
-  "sha256": "f272c8ca4f04e5c83d72f240e808ca61dcbc5cad2e9c3b8fb74162e4757a7f27",
-  "size": 29333597,
-  "notes": "Gift pictures with a Save button for each team (replace the overlay link). Download progress in My Games. An update window with a moving bar."
+  "version": "1.0.3",
+  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.3/TiktokGame.exe",
+  "sha256": "5e641c1317f293415e2f544edfa63eae6ba95b24479e3725b4ba24fcd9e8f192",
+  "size": 29333434,
+  "notes": "New gift pictures: big unit pictures standing on their numbers with the gift beside them (see-through PNG). Settings without the Gift pictures card."
  },
  "games": [
   {
