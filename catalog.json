@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "updated": "2026-10-02",
+ "updated": "2026-10-03",
  "app": {
-  "version": "1.0.1",
-  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.1/TiktokGame.exe",
-  "sha256": "76e5d573a6bbe854673a892d3fdfbfd1781e972eb094977ecc7ffcb8e5ce6069",
-  "size": 29153437,
-  "notes": "TikTok status: green when connected, red when not. Nicer yes/no windows. Days left rounded."
+  "version": "1.0.2",
+  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.2/TiktokGame.exe",
+  "sha256": "f272c8ca4f04e5c83d72f240e808ca61dcbc5cad2e9c3b8fb74162e4757a7f27",
+  "size": 29333597,
+  "notes": "Gift pictures with a Save button for each team (replace the overlay link). Download progress in My Games. An update window with a moving bar."
  },
  "games": [
   {
