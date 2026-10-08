@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "updated": "2026-10-03",
+ "updated": "2026-10-08",
  "app": {
-  "version": "1.0.4",
-  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.4/TiktokGame.exe",
-  "sha256": "60955b173e569969c90efab3ae37a827f43b91b038189879d1099fa033c645cf",
-  "size": 29336692,
-  "notes": "Move gift rows (drag the number or use the arrows). New Last War default gifts from the store. Note about gifts per country; gifts not in TikTok's list are marked."
+  "version": "1.0.5",
+  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.5/TiktokGame.exe",
+  "sha256": "2af7c626ed4faf646a95e4a396205c6d6c84a8f909edb709b4628eb9ba8ad4b2",
+  "size": 29395549,
+  "notes": "Likes, follows and fan club joins can send game actions. GOOD / BAD sections in the action pickers. Needed for the new game UP."
  },
  "games": [
   {
@@ -139,6 +139,204 @@
      "name": "Hat and Mustache",
      "diamonds": 99,
      "action": "eagle",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": "up",
+   "name": "UP",
+   "version": "1.0.0",
+   "developer": "CONNOR KURD",
+   "tagline": "Climb to the GOAL - gifts lift you UP or drag you DOWN.",
+   "description": "Climb the sky to the GOAL while viewers' gifts lift you UP, drag you DOWN and attack you.",
+   "cover": "https://raw.githubusercontent.com/CONNORKURD/tiktok-game-store/main/covers/up.jpg",
+   "tags": [
+    "2 teams",
+    "climbing",
+    "up vs down fights"
+   ],
+   "download": {
+    "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/up-1.0.0/up-1.0.0.zip",
+    "size": 46378858,
+    "sha256": "8fb0ec710f1ea0d8293d3b11856e38dbe872873b84014a232414f62aa899ee83"
+   },
+   "minApp": "1.0.5",
+   "defaults": [
+    {
+     "side": "blue",
+     "gift": 5655,
+     "name": "Rose",
+     "diamonds": 1,
+     "action": "up",
+     "quantity": 100
+    },
+    {
+     "side": "blue",
+     "gift": 5487,
+     "name": "Finger Heart",
+     "diamonds": 5,
+     "action": "elevator",
+     "quantity": 500
+    },
+    {
+     "side": "blue",
+     "gift": 440713,
+     "name": "Brown Paw",
+     "diamonds": 5,
+     "action": "drone",
+     "quantity": 500
+    },
+    {
+     "side": "blue",
+     "gift": 5282,
+     "name": "Heart",
+     "diamonds": 10,
+     "action": "cannon",
+     "quantity": 1000
+    },
+    {
+     "side": "blue",
+     "gift": 5658,
+     "name": "Perfume",
+     "diamonds": 20,
+     "action": "mega_bounce",
+     "quantity": 1
+    },
+    {
+     "side": "blue",
+     "gift": 5879,
+     "name": "Doughnut",
+     "diamonds": 30,
+     "action": "health_25",
+     "quantity": 1
+    },
+    {
+     "side": "blue",
+     "gift": 5924,
+     "name": "Hand Heart",
+     "diamonds": 100,
+     "action": "shield",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 5269,
+     "name": "TikTok",
+     "diamonds": 1,
+     "action": "down",
+     "quantity": 100
+    },
+    {
+     "side": "red",
+     "gift": 19447,
+     "name": "Overreact",
+     "diamonds": 5,
+     "action": "spider",
+     "quantity": 500
+    },
+    {
+     "side": "red",
+     "gift": 5827,
+     "name": "Ice Cream Cone",
+     "diamonds": 1,
+     "action": "fire",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 6064,
+     "name": "GG",
+     "diamonds": 1,
+     "action": "spikes",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 105781,
+     "name": "Spinning Soccer",
+     "diamonds": 5,
+     "action": "boxing_glove",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 8913,
+     "name": "Rosa",
+     "diamonds": 10,
+     "action": "pirate_ship",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 440717,
+     "name": "Black Paw",
+     "diamonds": 10,
+     "action": "dragon",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 13300,
+     "name": "Heart Gaze",
+     "diamonds": 10,
+     "action": "meteor",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 15063,
+     "name": "Journey Pass",
+     "diamonds": 10,
+     "action": "upside_down",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 626064,
+     "name": "G.O.A.T. Busker",
+     "diamonds": 20,
+     "action": "freeze",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 12785,
+     "name": "Witchy Kitty",
+     "diamonds": 30,
+     "action": "tnt",
+     "quantity": 150
+    },
+    {
+     "side": "red",
+     "gift": 5300,
+     "name": "Sceptre",
+     "diamonds": 150,
+     "action": "rocket",
+     "quantity": 40
+    },
+    {
+     "side": "red",
+     "gift": 6267,
+     "name": "Corgi",
+     "diamonds": 299,
+     "action": "fire_oil",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 6007,
+     "name": "Boxing Gloves",
+     "diamonds": 299,
+     "action": "all_spikes",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 7168,
+     "name": "Money Gun",
+     "diamonds": 500,
+     "action": "lightning",
      "quantity": 1
     }
    ]
