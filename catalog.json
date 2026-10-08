@@ -146,7 +146,7 @@
   {
    "id": "up",
    "name": "UP",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "developer": "CONNOR KURD",
    "tagline": "Climb to the GOAL - gifts lift you UP or drag you DOWN.",
    "description": "Climb the sky to the GOAL while viewers' gifts lift you UP, drag you DOWN and attack you.",
@@ -157,9 +157,9 @@
     "up vs down fights"
    ],
    "download": {
-    "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/up-1.0.0/up-1.0.0.zip",
-    "size": 46378858,
-    "sha256": "8fb0ec710f1ea0d8293d3b11856e38dbe872873b84014a232414f62aa899ee83"
+    "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/up-1.0.1/up-1.0.1.zip",
+    "size": 47336682,
+    "sha256": "4dffec66dfeb02f0f8acf39790c659441861c85de34336540381f6fa7ef22664"
    },
    "minApp": "1.0.5",
    "defaults": [
