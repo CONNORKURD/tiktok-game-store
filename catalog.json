@@ -554,6 +554,132 @@
      "quantity": 1
     }
    ]
+  },
+  {
+   "id": "templerush",
+   "name": "Temple Rush",
+   "version": "1.0.0",
+   "developer": "CONNOR KURD",
+   "tagline": "BLUE gifts push the runner FORWARD, RED gifts push him BACK - hold the finish line.",
+   "description": "The streamer runs a temple road to the finish line and must hold it while the countdown runs. Viewers' gifts send an elephant, a giraffe, King Kong, a buffalo and Nyan Cat to push the runner FORWARD - or a T-Rex, King Kong, a rhino, a tornado, bombs and rolling stones to push him BACK. Forward and backward pushes fight. Pushed all the way back, he grinds the temple wall: if the wall breaks, the run is lost. Big gifts start a key mini-game in slow motion.",
+   "cover": "https://raw.githubusercontent.com/CONNORKURD/tiktok-game-store/main/covers/templerush.jpg",
+   "tags": [
+    "2 teams",
+    "3D runner",
+    "forward vs back pushes"
+   ],
+   "download": {
+    "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/templerush-1.0.0/templerush-1.0.0.zip",
+    "size": 336323275,
+    "sha256": "00d16e6edb609002cf8bbf356e9e81773d63746e4b2b9511cd3103075df49d3c"
+   },
+   "minApp": "1.0.6",
+   "defaults": [
+    {
+     "side": "blue",
+     "gift": 5655,
+     "name": "Rose",
+     "diamonds": 1,
+     "action": "nyan_cat",
+     "quantity": 1
+    },
+    {
+     "side": "blue",
+     "gift": 5487,
+     "name": "Finger Heart",
+     "diamonds": 5,
+     "action": "buffalo",
+     "quantity": 1
+    },
+    {
+     "side": "blue",
+     "gift": 8913,
+     "name": "Rosa",
+     "diamonds": 10,
+     "action": "kingkong_forward",
+     "quantity": 1
+    },
+    {
+     "side": "blue",
+     "gift": 5658,
+     "name": "Perfume",
+     "diamonds": 20,
+     "action": "speed_shoe",
+     "quantity": 1
+    },
+    {
+     "side": "blue",
+     "gift": 5879,
+     "name": "Doughnut",
+     "diamonds": 30,
+     "action": "armor",
+     "quantity": 1
+    },
+    {
+     "side": "blue",
+     "gift": 6267,
+     "name": "Corgi",
+     "diamonds": 299,
+     "action": "giraffe",
+     "quantity": 1
+    },
+    {
+     "side": "blue",
+     "gift": 11046,
+     "name": "Galaxy",
+     "diamonds": 1000,
+     "action": "elephant_forward",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 5269,
+     "name": "TikTok",
+     "diamonds": 1,
+     "action": "marble",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 6064,
+     "name": "GG",
+     "diamonds": 1,
+     "action": "bomb",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 5282,
+     "name": "Heart",
+     "diamonds": 10,
+     "action": "tornado",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 5660,
+     "name": "Hand Heart",
+     "diamonds": 100,
+     "action": "rhino",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 7168,
+     "name": "Money Gun",
+     "diamonds": 500,
+     "action": "kingkong_back",
+     "quantity": 1
+    },
+    {
+     "side": "red",
+     "gift": 6090,
+     "name": "Fireworks",
+     "diamonds": 1088,
+     "action": "dino_back",
+     "quantity": 1
+    }
+   ]
   }
  ]
 }
