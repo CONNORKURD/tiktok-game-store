@@ -2,11 +2,11 @@
  "schema": 1,
  "updated": "2026-10-20",
  "app": {
-  "version": "1.0.7",
-  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.7/TiktokGame.exe",
-  "sha256": "03faebc1c8fc76bbf388d79591f6b8ce306eab023a58fbecd8ba48f22c73dbc4",
-  "size": 29412881,
-  "notes": "Shares / copy link: every N shares of your LIVE can trigger an action (Gift Setup, off until you turn it on). Likes, follows and shares now come first on the gift pictures."
+  "version": "1.0.8",
+  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.8/TiktokGame.exe",
+  "sha256": "28e715503b212e9f512e078ad899b81881db4a02b40704cec64ea502619538c9",
+  "size": 29415135,
+  "notes": "Games can name their sides: Temple Rush and Metro Runner now say FORWARD and BACKWARD instead of BLUE TEAM and RED TEAM (Gift Setup, Save buttons and the gift pictures)."
  },
  "games": [
   {
@@ -560,7 +560,7 @@
    "name": "Temple Rush",
    "version": "1.0.2",
    "developer": "CONNOR KURD",
-   "tagline": "BLUE gifts push the runner FORWARD, RED gifts push him BACK - hold the finish line.",
+   "tagline": "FORWARD gifts push the runner ahead, BACKWARD gifts push him back - hold the finish line.",
    "description": "The streamer runs a temple road to the finish line and must hold it while the countdown runs. Viewers' gifts send an elephant, a giraffe, King Kong, a buffalo and Nyan Cat to push the runner FORWARD - or a T-Rex, King Kong, a rhino, a tornado, bombs and rolling stones to push him BACK. Forward and backward pushes fight. Pushed all the way back, he grinds the temple wall: if the wall breaks, the run is lost. Big gifts start a key mini-game in slow motion.",
    "cover": "https://raw.githubusercontent.com/CONNORKURD/tiktok-game-store/main/covers/templerush.jpg",
    "tags": [
@@ -574,6 +574,18 @@
     "sha256": "cae10eaf0d35b23d4e6aaf923a1a0e9373eaf390587da8a47d057f485ddc00e1"
    },
    "minApp": "1.0.6",
+   "sides": [
+    {
+     "id": "blue",
+     "name": "FORWARD",
+     "title": "FORWARD"
+    },
+    {
+     "id": "red",
+     "name": "BACKWARD",
+     "title": "BACKWARD"
+    }
+   ],
    "defaults": [
     {
      "side": "blue",
@@ -678,7 +690,7 @@
    "name": "Metro Runner",
    "version": "1.0.0",
    "developer": "CONNOR KURD",
-   "tagline": "BLUE gifts carry the runner FORWARD, RED gifts push him BACK to the bomb - hold the finish line.",
+   "tagline": "FORWARD gifts carry the runner ahead, BACKWARD gifts push him back to the bomb - hold the finish line.",
    "description": "The streamer runs a metro track to the finish line and must hold it while the countdown runs. Viewers' gifts send a hippo, a tank, SpaceX, Iron Man, a dragon and a spaceship to carry the runner FORWARD - or a water wheel, poop, a rhino, a train, Hulk, a tornado and a black-hole hand to push him BACK. The streamer sets how many metres each gift pushes. Pushed all the way back, the giant bomb at the start burns down: if it explodes, the run is lost. Big gifts start with a movie intro.",
    "cover": "https://raw.githubusercontent.com/CONNORKURD/tiktok-game-store/main/covers/metrorunner.jpg",
    "tags": [
@@ -692,6 +704,18 @@
     "sha256": "ad36855d2b5c08403c60ac6a401d9eef07a6f33427f3bead843e29f49258df34"
    },
    "minApp": "1.0.6",
+   "sides": [
+    {
+     "id": "blue",
+     "name": "FORWARD",
+     "title": "FORWARD"
+    },
+    {
+     "id": "red",
+     "name": "BACKWARD",
+     "title": "BACKWARD"
+    }
+   ],
    "defaults": [
     {
      "side": "blue",
