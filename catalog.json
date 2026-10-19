@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "updated": "2026-10-12",
+ "updated": "2026-10-19",
  "app": {
-  "version": "1.0.5",
-  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.5/TiktokGame.exe",
-  "sha256": "2af7c626ed4faf646a95e4a396205c6d6c84a8f909edb709b4628eb9ba8ad4b2",
-  "size": 29395549,
-  "notes": "Likes, follows and fan club joins can send game actions. GOOD / BAD sections in the action pickers. Needed for the new game UP."
+  "version": "1.0.6",
+  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.6/TiktokGame.exe",
+  "sha256": "d0db383887901932fb91155b320a7a26fcb792567505215054b095237f4f8a5d",
+  "size": 29396844,
+  "notes": "Team games can limit a gift action to one team: each team's gift setup only offers its own actions."
  },
  "games": [
   {
