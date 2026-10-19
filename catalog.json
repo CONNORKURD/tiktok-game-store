@@ -680,6 +680,132 @@
      "quantity": 1
     }
    ]
+  },
+  {
+   "id": "metrorunner",
+   "name": "Metro Runner",
+   "version": "1.0.0",
+   "developer": "CONNOR KURD",
+   "tagline": "BLUE gifts carry the runner FORWARD, RED gifts push him BACK to the bomb - hold the finish line.",
+   "description": "The streamer runs a metro track to the finish line and must hold it while the countdown runs. Viewers' gifts send a hippo, a tank, SpaceX, Iron Man, a dragon and a spaceship to carry the runner FORWARD - or a water wheel, poop, a rhino, a train, Hulk, a tornado and a black-hole hand to push him BACK. The streamer sets how many metres each gift pushes. Pushed all the way back, the giant bomb at the start burns down: if it explodes, the run is lost. Big gifts start with a movie intro.",
+   "cover": "https://raw.githubusercontent.com/CONNORKURD/tiktok-game-store/main/covers/metrorunner.jpg",
+   "tags": [
+    "2 teams",
+    "3D runner",
+    "metres per gift"
+   ],
+   "download": {
+    "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/metrorunner-1.0.0/metrorunner-1.0.0.zip",
+    "size": 363022053,
+    "sha256": "ad36855d2b5c08403c60ac6a401d9eef07a6f33427f3bead843e29f49258df34"
+   },
+   "minApp": "1.0.6",
+   "defaults": [
+    {
+     "side": "blue",
+     "gift": 5655,
+     "name": "Rose",
+     "diamonds": 1,
+     "action": "hippo",
+     "quantity": 50
+    },
+    {
+     "side": "blue",
+     "gift": 5487,
+     "name": "Finger Heart",
+     "diamonds": 5,
+     "action": "tank",
+     "quantity": 280
+    },
+    {
+     "side": "blue",
+     "gift": 8913,
+     "name": "Rosa",
+     "diamonds": 10,
+     "action": "spacex",
+     "quantity": 450
+    },
+    {
+     "side": "blue",
+     "gift": 5658,
+     "name": "Perfume",
+     "diamonds": 20,
+     "action": "ironman",
+     "quantity": 550
+    },
+    {
+     "side": "blue",
+     "gift": 6267,
+     "name": "Corgi",
+     "diamonds": 299,
+     "action": "dragon",
+     "quantity": 720
+    },
+    {
+     "side": "blue",
+     "gift": 11046,
+     "name": "Galaxy",
+     "diamonds": 1000,
+     "action": "spaceship",
+     "quantity": 1050
+    },
+    {
+     "side": "red",
+     "gift": 5269,
+     "name": "TikTok",
+     "diamonds": 1,
+     "action": "waterwheel",
+     "quantity": 8
+    },
+    {
+     "side": "red",
+     "gift": 6064,
+     "name": "GG",
+     "diamonds": 1,
+     "action": "poop",
+     "quantity": 15
+    },
+    {
+     "side": "red",
+     "gift": 5282,
+     "name": "Heart",
+     "diamonds": 10,
+     "action": "rhino",
+     "quantity": 80
+    },
+    {
+     "side": "red",
+     "gift": 5879,
+     "name": "Doughnut",
+     "diamonds": 30,
+     "action": "train",
+     "quantity": 450
+    },
+    {
+     "side": "red",
+     "gift": 5660,
+     "name": "Hand Heart",
+     "diamonds": 100,
+     "action": "hulk",
+     "quantity": 670
+    },
+    {
+     "side": "red",
+     "gift": 7168,
+     "name": "Money Gun",
+     "diamonds": 500,
+     "action": "tornado",
+     "quantity": 750
+    },
+    {
+     "side": "red",
+     "gift": 6090,
+     "name": "Fireworks",
+     "diamonds": 1088,
+     "action": "hand",
+     "quantity": 1540
+    }
+   ]
   }
  ]
 }
