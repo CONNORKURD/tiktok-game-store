@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "app": {
   "version": "1.0.8",
   "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.8/TiktokGame.exe",
@@ -699,9 +699,9 @@
     "metres per gift"
    ],
    "download": {
-    "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/metrorunner-1.0.2/metrorunner-1.0.0.zip",
-    "size": 363024205,
-    "sha256": "d32285e42b667f1dc93eed27ea81f01818a9874e269a9535f45523cad9956cd5"
+    "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/metrorunner-1.0.2/metrorunner-1.0.2.zip",
+    "size": 363022053,
+    "sha256": "25f0a826cdded14880f82330252377a3055220bd2d90fdc030618b4865a6ea69"
    },
    "minApp": "1.0.6",
    "sides": [
