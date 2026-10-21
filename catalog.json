@@ -688,9 +688,9 @@
   {
    "id": "metrorunner",
    "name": "Metro Runner",
-   "version": "1.0.2",
+   "version": "1.0.3",
    "developer": "CONNOR KURD",
-   "tagline": "FORWARD gifts carry the runner ahead, BACKWARD gifts push him back to the bomb - hold the finish line.",
+   "tagline": "Temporarily deactivated.",
    "description": "The streamer runs a metro track to the finish line and must hold it while the countdown runs. Viewers' gifts send a hippo, a tank, SpaceX, Iron Man, a dragon and a spaceship to carry the runner FORWARD - or a water wheel, poop, a rhino, a train, Hulk, a tornado and a black-hole hand to push him BACK. The streamer sets how many metres each gift pushes. Pushed all the way back, the giant bomb at the start burns down: if it explodes, the run is lost. Big gifts start with a movie intro.",
    "cover": "https://raw.githubusercontent.com/CONNORKURD/tiktok-game-store/main/covers/metrorunner.jpg",
    "tags": [
@@ -699,11 +699,12 @@
     "metres per gift"
    ],
    "download": {
-    "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/metrorunner-1.0.2/metrorunner-1.0.2.zip",
-    "size": 363022053,
-    "sha256": "25f0a826cdded14880f82330252377a3055220bd2d90fdc030618b4865a6ea69"
+    "url": "",
+    "size": 0,
+    "sha256": ""
    },
    "minApp": "1.0.6",
+   "deactivated": true,
    "sides": [
     {
      "id": "blue",
