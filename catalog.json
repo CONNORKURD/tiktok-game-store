@@ -2,11 +2,11 @@
  "schema": 1,
  "updated": "2026-10-21",
  "app": {
-  "version": "1.0.8",
-  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.8/TiktokGame.exe",
-  "sha256": "28e715503b212e9f512e078ad899b81881db4a02b40704cec64ea502619538c9",
-  "size": 29415135,
-  "notes": "Games can name their sides: Temple Rush and Metro Runner now say FORWARD and BACKWARD instead of BLUE TEAM and RED TEAM (Gift Setup, Save buttons and the gift pictures)."
+  "version": "1.0.9",
+  "url": "https://github.com/CONNORKURD/tiktok-game-store/releases/download/app-1.0.9/TiktokGame.exe",
+  "sha256": "d1cae27ca5fa672bc79e8e58b9de52c3f199da0367e052e335930661793f42c8",
+  "size": 29413677,
+  "notes": "A game that is switched off for a while now shows TEMPORARILY DEACTIVATED and cannot be downloaded, updated or played."
  },
  "games": [
   {
